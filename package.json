@@ -1,0 +1,24 @@
+{
+  "name": "codestellation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "smileexample.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "smile-face-detector": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathantw5566/codestellation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathantw5566/codestellation/issues"
+  },
+  "homepage": "https://github.com/nathantw5566/codestellation#readme"
+}
