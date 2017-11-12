@@ -5,7 +5,9 @@
   "main": "smileexample.js",
   "dependencies": {
     "fs": "0.0.1-security",
-    "smile-face-detector": "^1.0.2"
+    "smile-face-detector": "^1.0.2",
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
   },
   "devDependencies": {},
   "scripts": {
