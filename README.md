@@ -1,4 +1,6 @@
 # codestellation test in Brandies Univ.
+@wangjonathan
+@Laxatony
 Environment
 opencv@2
 javascript
@@ -32,6 +34,7 @@ At the meantime, we run a process to detect if there's any new smile images in d
 If yes, replace the image in the output directory randomly so we can change the output in web.
 
 #react
+/public/scripts/app.js
 Shows the combination of images as matrix in the web page. If the output images
 have been replaced, the matrix of images will also be updated. The output images is stored in 
 output directory.
